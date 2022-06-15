@@ -30,11 +30,7 @@ function App(props) {
         selectionColor="red"
         style={styles.text}
       >
-        Lorem ipsum +37493092610 dolor https://sjhdjashd.com sit test@test.com amet,
-        consectetur adipisicing elit.
-        Aliquam animi aperiam consequatur corporis dolor, ex id labore minus
-        molestias mollitia nam nemo nobis numquam
-        porro quasi saepe tenetur voluptas voluptates.
+      sqdasdasdasd
       </Text>
       <Pressable onLongPress={() => navigator.navigate()} onPress={() => alert(1)}>
         <Image
